@@ -4,9 +4,6 @@
 Una iniciativa de estudiantes de **Ingeniería de Sistemas** de la  
 **Universidad Nacional Abierta (U.N.A.)**.
 
-🔗 Repositorio:  
-https://github.com/davidlugodev/AutoDoc.git
-
 ---
 
 ## 📌 ¿Qué estamos construyendo?
