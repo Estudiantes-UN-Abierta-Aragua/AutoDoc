@@ -39,4 +39,8 @@ El proyecto sigue una arquitectura **modular y desacoplada**, separando la **int
 > aportemos conocimientos, busquemos soluciones innovadoras  
 > y **aprendamos juntos**.
 
-�
+
+
+## Interfas de usasuario UI - "Prototipo"
+<img width="2464" height="1742" alt="UI - Preliminar" src="https://github.com/user-attachments/assets/6b01c1e9-23c5-42ee-982d-3b0e19ea0235" />
+
