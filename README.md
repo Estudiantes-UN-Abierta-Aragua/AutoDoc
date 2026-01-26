@@ -1,4 +1,5 @@
 # AutoDoc
+<img width="503" height="503" alt="image" src="https://github.com/user-attachments/assets/d71e884d-5d12-4d30-ae5d-7169e5774b3e" />
 # 🚀 AutoDoc | Proyecto Open Source
 
 Una iniciativa de estudiantes de **Ingeniería de Sistemas** de la  
