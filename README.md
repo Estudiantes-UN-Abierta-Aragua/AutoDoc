@@ -37,6 +37,6 @@ El proyecto sigue una arquitectura **modular y desacoplada**, separando la **int
 
 > Este es un espacio para que, como estudiantes de la **U.N.A.**,  
 > aportemos conocimientos, busquemos soluciones innovadoras  
-> y **aprendamos juntos**.
+> y **aprendamos juntos**...
 
 �
